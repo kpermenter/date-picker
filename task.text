@@ -1,0 +1,17 @@
+Challenge
+## Two date inputs that have a calendar dropdown. One for a start date, one for an end date
+
+## An “add” button that appends the date range to a list on the screen
+
+## A “clear” button that resets the input
+
+## Ranges can be deleted from the list
+
+## Make it pretty/styled
+
+## Deploy it to an S3 bucket on AWS
+
+## Host the code in a git repo somewhere so we can review
+
+
+https://reactjsexample.com/an-easily-internationalizable-and-mobile-friendly-datepicker-library-for-the-web/
